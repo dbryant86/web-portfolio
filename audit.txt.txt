@@ -1,0 +1,26 @@
+Perform a Design and Usability Audit
+
+Is my navigation menu clear and easy to find on every page?
+
+ Yes
+
+Is there a clear visual hierarchy? (e.g., Are <h1> headings obviously more important than <h2>
+headings?)
+
+Yes
+
+Is the text easy to read? (Consider font size, line spacing, and color contrast).
+
+Yes
+
+Conduct an Accessibility Check
+
+2. Ensure every <img> tag has a descriptive alt attribute. If an image is purely decorative, it should have an
+empty alt="" attribute.
+
+Yes
+
+3. On your contact.html page, double-check that every <label> is correctly associated with its <input> or
+<textarea> using the for and id attributes.
+
+Yes
